@@ -1,8 +1,8 @@
 {
   "name": "levelup",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "description": "dapp",
+  "author": "me",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
